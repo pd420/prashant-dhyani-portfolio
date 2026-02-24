@@ -1,0 +1,317 @@
+{
+  "settings": {
+    "name": "Prashant Dhyani",
+    "title": "Senior Data Scientist | AI & Generative AI Specialist | Enterprise ML & MLOps Leader",
+    "location": "India",
+    "summary": "Senior Data Scientist with 6+ years of experience delivering enterprise-scale AI, ML, and Generative AI solutions, driving business outcomes.",
+    "profileImage": "https://raw.githubusercontent.com/pd420/Profile-pic/main/WhatsApp%20Image%202026-02-24%20at%203.12.39%20PM.jpeg"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:Prashantdhyani216@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "https://github.com/pd420/Profile-pic/raw/main/Prashant_Dhyani_Resume.pdf"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "Python",
+          "SQL",
+          "C/C++",
+          "ETL/ELT Pipelines",
+          "Data Processing",
+          "Feature Engineering",
+          "LLMs",
+          "GPT-4",
+          "LLaMA2/3",
+          "BERT",
+          "Falcon",
+          "Prompt Engineering",
+          "LoRA Fine-Tuning",
+          "Multimodal LLMs",
+          "Applied Reinforcement Learning",
+          "Text Classification",
+          "Intent Detection",
+          "NER",
+          "Topic Modeling (BERTopic)",
+          "Sentiment Analysis",
+          "Embeddings",
+          "Semantic Search",
+          "spaCy",
+          "Enterprise Chatbots",
+          "RAG Architecture",
+          "FAISS",
+          "Pinecone",
+          "Vector Databases",
+          "Hybrid Search",
+          "Contextual Retrieval",
+          "Knowledge Bases",
+          "MLflow",
+          "Docker",
+          "CI/CD for ML",
+          "Model Versioning",
+          "Monitoring",
+          "AutoML",
+          "Scalable ML Pipelines",
+          "AWS (SageMaker)",
+          "GCP",
+          "Azure AI Services",
+          "Snowflake",
+          "BigQuery",
+          "Databricks",
+          "Teradata",
+          "ASR",
+          "Speech Analytics",
+          "Voice Transcript Processing",
+          "Text-Speech Multimodal Pipelines",
+          "Telecom Analytics",
+          "CX Analytics",
+          "Churn Reduction",
+          "ARPU Optimization",
+          "Enterprise AI Solutions"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "R Systems International, Noida",
+          "position": "Senior Data Scientist",
+          "period": "Jan/2025 - Present",
+          "description": "Spearheaded enterprise AI transformation by delivering production-grade LLM solutions, scalable RAG architectures & multimodal (text/speech) AI systems. Engineered next-generation RAG framework integrated with vector databases, significantly elevating chatbot accuracy, contextual intelligence, and real-time knowledge access. Delivered AI-powered automation agents across document processing, customer support, and enterprise knowledge workflows, generating quantifiable productivity and efficiency gains. Operationalized end-to-end data & MLOps pipelines using Python, Snowflake, and Dataiku, enabling faster model deployment and enterprise-scale reliability. Accelerated business innovation by applying AutoML, AI agents & multimodal LLMS to create high-impact, scalable AI solutions for enterprise clients."
+        },
+        {
+          "company": "R Systems International, Noida",
+          "position": "Data Scientist",
+          "period": "Nov/2022 - Dec/2024",
+          "description": "Drove innovation in AI and data processing by developing enterprise-grade NLP solutions including topic modeling, NER, intent detection, and multi-class text classification on large-scale datasets. Built conversational AI platforms leveraging LLMs (GPT-4, Llama3, BERT), successfully integrating them into customer service ecosystems to enhance user experience. Operationalized scalable AI pipelines using MLOps frameworks (MLflow, Docker), ensuring robust, reproducible, and production-ready model lifecycle management. Delivered measurable business outcomes by improving customer satisfaction, reducing churn, and enabling personalized, data-driven engagement strategies."
+        },
+        {
+          "company": "Maaloomatiia, Oman",
+          "position": "Data Scientist",
+          "period": "Feb/2022 - Sep/2022",
+          "description": "Drove a 15% uplift in client retention by architecting churn prediction and product recommendation models leveraging Python and Dataiku. Reduced churn and amplified customer engagement through ML-powered personalized recommendation engines that aligned offerings with user behavior."
+        },
+        {
+          "company": "Netzwerk Academy, Bangalore",
+          "position": "Data Scientist Intern",
+          "period": "Nov/2021 - Jan/2022",
+          "description": "Delivered client-specific predictive models by applying advanced machine learning techniques aligned to distinct business requirements. Built end-to-end ML solutions using Python for model development and MySQL for scalable data storage and efficient retrieval, enabling reliable and data-driven decision-making."
+        },
+        {
+          "company": "Wipro, Gurgaon",
+          "position": "Data Analyst",
+          "period": "Oct/2019 - Oct/2021",
+          "description": "Delivered enterprise data analytics solutions by managing diverse data science and advanced analytics use cases for large-scale clients. Applied machine learning to extract actionable insights, developing Python-based models that enhanced decision-making speed and accuracy."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "Enterprise - Retrieval-augmented generation for chatbots & knowledge bases",
+          "description": "Designed and deployed a scalable enterprise-grade RAG framework for chatbots and knowledge bases by integrating large language models with vector databases. Enhanced contextual relevance and response accuracy through hybrid semantic-keyword retrieval and prompt optimization, resulting in a 25% improvement in customer query resolution. Automated multi-client deployments using containerized pipelines.",
+          "tags": [
+            "GPT-4",
+            "Llama2",
+            "Llama3",
+            "FAISS",
+            "Pinecone",
+            "Docker",
+            "MLflow",
+            "Python",
+            "Prompt Engineering"
+          ],
+          "previewUrl": "",
+          "repoUrl": ""
+        },
+        {
+          "title": "Multimodal AI for Voice & Text Transcript Intelligence",
+          "description": "Built end-to-end AI workflows combining automatic speech recognition (ASR) with LLM-based NLP to analyze large-scale customer-agent call transcripts. Enabled intent detection, sentiment analysis, and escalation trigger identification to support proactive interventions, contributing to churn reduction in telecom environments.",
+          "tags": [
+            "ASR Systems",
+            "Transformers",
+            "LLMs",
+            "Embeddings",
+            "Python",
+            "NLP Pipelines"
+          ],
+          "previewUrl": "",
+          "repoUrl": ""
+        },
+        {
+          "title": "GenAI-Driven Topic Modeling & Intent Discovery",
+          "description": "Developed topic modeling solutions on chatbot and voice transcript data using BERTopic and GenAI models to classify intents and events. Automated summarization and labeling of discovered topics to translate technical insights into business-ready outputs for stakeholders.",
+          "tags": [
+            "BERTopic",
+            "BERT",
+            "LLMs",
+            "GenAI Summarization",
+            "Python",
+            "NLP"
+          ],
+          "previewUrl": "",
+          "repoUrl": ""
+        },
+        {
+          "title": "Multilingual Named Entity Recognition (NER) for Telecom Transcripts",
+          "description": "Engineered a custom spaCy-based multilingual NER model to identify telecom-specific entities and channel mentions from transcripts. Converted Snowflake-exported data into spaCy training formats and deployed the model for real-time production inference.",
+          "tags": [
+            "spaCy",
+            "Python",
+            "Snowflake",
+            "NLP",
+            "Model Training & Inference Pipelines"
+          ],
+          "previewUrl": "",
+          "repoUrl": ""
+        },
+        {
+          "title": "Telecom Customer Churn Prediction Platform",
+          "description": "Built machine learning models to predict prepaid and postpaid customer churn, segmented by customer value tiers. Enabled targeted retention strategies that delivered a 7-8% increase in client revenue during onsite telecom engagements.",
+          "tags": [
+            "Python",
+            "Machine Learning Models",
+            "Feature Engineering",
+            "Telecom Analytics"
+          ],
+          "previewUrl": "",
+          "repoUrl": ""
+        },
+        {
+          "title": "Product Recommendation Engine for Telecom Customers",
+          "description": "Developed a collaborative filtering-based recommendation engine to deliver personalized product suggestions triggered by customer usage thresholds. Improved customer engagement and increased ARPU by 4% through targeted recommendations.",
+          "tags": [
+            "Dataiku",
+            "Collaborative Filtering",
+            "Python",
+            "Recommendation Systems"
+          ],
+          "previewUrl": "",
+          "repoUrl": ""
+        },
+        {
+          "title": "AI-Powered Autonomous Trading Agent (Forex & Crypto) (Personal Initiative)",
+          "description": "Designed and implemented a personal autonomous trading agent integrating technical indicators, advanced risk management, reinforcement learning, and GenAI-driven sentiment and news analysis. Built a modular backtesting and simulation framework and enhanced the system with LLM-powered natural language market interpretation for automated trade recommendations.",
+          "tags": [
+            "Python",
+            "MetaTrader5 APIs",
+            "Reinforcement Learning",
+            "GenAI",
+            "LLMs",
+            "Technical Indicators (EMA, ATR)",
+            "Backtesting Frameworks"
+          ],
+          "previewUrl": "",
+          "repoUrl": ""
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Graphic Era Deemed To Be University, Dehradun",
+          "degree": "Bachelor of Technology (B.Tech)",
+          "period": "2015 - 2019"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "Dataiku Certification | Core Designer",
+          "description": ""
+        },
+        {
+          "title": "Dataiku Certification | ML Practitioner",
+          "description": ""
+        },
+        {
+          "title": "Generative AI Certification | Prompt Engineering & LLM Applications",
+          "description": ""
+        },
+        {
+          "title": "AWS Certified Machine Learning",
+          "description": ""
+        },
+        {
+          "title": "Google Cloud Professional AI Engineer",
+          "description": ""
+        },
+        {
+          "title": "Azure AI Engineer Associate",
+          "description": ""
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "Prashantdhyani216@gmail.com",
+      "phone": "7906201220",
+      "location": "India"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/in/prashant-dhyani-b359b2142/",
+          "icon": "linkedin"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Prashant Dhyani. All rights reserved."
+  }
+}
